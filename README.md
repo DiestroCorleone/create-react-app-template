@@ -1,6 +1,7 @@
-# Create React App
+# Create React App Template
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+A [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+I'll keep it as is for test purposes, since I'm looking for the best way to deploy React apps without the need for a local install.
 
 ## Deploy Your Own
 
